@@ -332,13 +332,13 @@ model_run_4x_dict = {'UKESM1_r1':'UKESM1-0-LL_abrupt-4xCO2_r1i1p1f2*',
 
 ################## colors ######################
 
-type_color = {'model_1pct': 'darkcyan',
-              'model_1000gtc': 'darkcyan',
-             'emulator_1pct': 'maroon',
-              'emulator_1000gtc':'maroon'}
+#type_color = {'model_1pct': 'darkcyan',
+#              'model_1000gtc': 'darkcyan',
+#             'emulator_1pct': 'maroon',
+#              'emulator_1000gtc':'maroon'}
 
 model_color = {'UKESM1_r1':'darkgreen', 'UKESM1_r2':'mediumaquamarine', 'UKESM1_r3':'seagreen', 'UKESM1_r4':'lightgreen', 'NORESM2':'blue', 'GFDL':'red', 'MIROC':'purple', 'ACCESS':'pink', 'CANESM5_r1p2':'orange', 'CANESM5_r2p2':'sienna', 'CANESM5_r3p2':'goldenrod', 'CANESM5_r1p1':'sienna','mean':'black'}
 
-#type_color = {'model':'maroon', 'all':'darksalmon',  'pulse':'darkcyan', 'cdr':'darkgreen'} 
+type_color = {'model':'maroon', 'all':'darksalmon',  'pulse':'darkcyan', 'cdr':'darkgreen'} 
 
 proper_names = {'UKESM1_r1':'UKESM1', 'MIROC':'MIROC', 'NORESM2':'NORESM2', 'ACCESS':'ACCESS', 'GFDL':'GFDL', 'CANESM5_r1p2':'CANESM5'}
